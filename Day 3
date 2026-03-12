@@ -1,0 +1,43 @@
+Descriptive Statistics: Summarizes, organizes, and visualizes data using techniques like mean, median, mode, variance, and graphs (histograms, bar plots).
+
+Inferential Statistics: Uses sample data to make generalizations, predictions, or inferences about a larger population, including hypothesis testing and regression analysis.
+
+Descriptive Statistics Types
+These methods are used to describe, organize, and summarize data into manageable forms. 
+Measures of Central Tendency: Identify the "center" or typical value of a dataset.
+Mean: The mathematical average.
+Median: The middle value in a sorted list.
+Mode: The most frequently occurring value.
+Measures of Dispersion (Variability): Describe how spread out the data points are.
+Range: Difference between the highest and lowest values.
+Variance: Average of the squared differences from the Mean.
+Standard Deviation: The average distance of each data point from the mean.
+Interquartile Range (IQR): The spread of the middle 50% of the data.
+Measures of Frequency Distribution: Show how often each value occurs in a dataset.
+Frequency Tables: Listing data points and their counts.
+Relative Frequency: Percentages or proportions of the total.
+Measures of Position: Describe where a specific value falls in relation to others.
+Percentiles: The value below which a percentage of data falls.
+Quartiles: Values that divide the data into four equal parts.
+Graphical Representations: Visual tools to present data patterns.
+Histograms, Bar Charts, Pie Charts, and Box Plots. 
+
+
+
+Inferential Statistics Types
+These methods allow researchers to test hypotheses and generalize findings from a sample to an entire population. 
+Bradley University Online
+Bradley University Online
+Hypothesis Testing: Determines if there is enough evidence in a sample to support a specific claim about the population.
+T-tests: Compare the means of two groups.
+Z-tests: Compare means when the population variance is known and the sample size is large.
+ANOVA (Analysis of Variance): Compares means across three or more groups.
+Chi-Square Tests: Used for categorical data to check for independence.
+Regression Analysis: Examines the relationship between a dependent variable and one or more independent variables to make predictions.
+Simple Linear Regression: One independent variable.
+Multiple Regression: Two or more independent variables.
+Logistic Regression: Used when the outcome is binary (e.g., Yes/No).
+Estimation (Point and Interval): Estimates population parameters based on sample data.
+Confidence Intervals: A range of values likely to contain the true population parameter with a certain level of confidence.
+Correlation Analysis: Measures the strength and direction of the relationship between two variables.
+Pearson Correlation: For linear relationships between continuous variables
