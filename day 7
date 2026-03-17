@@ -1,0 +1,15 @@
+# handling missing data 
+#numerical data   --> avg -> Mean,Median
+#categorical data --> mode
+
+# Quick Comparison Table
+# Method	        Best For	                Pros	    Cons
+# Delete            Small missing %	            Simple	    Data loss
+# rows/columns	
+
+# Mean/Median/Mode	Basic numeric/categorical	Fast	    Distorts variance
+
+# KNN	            Medium datasets	More accurate	        Slow
+# Regression	Strong relationships	Uses predictors	Overfitting risk
+# MICE	Complex datasets	Very accurate	Heavy
+# Tree-based models	ML tasks	No imputation needed
