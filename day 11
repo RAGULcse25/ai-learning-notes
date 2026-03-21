@@ -1,0 +1,7 @@
+today rag or cag what is concept and 
+  Feature,RAG (Retrieval),CAG (Cache)
+Speed,Slow (Search time added),Lightning Fast
+Data Size,Massive (No limit),Bounded (Context window limit)
+Complexity,"High (Vector DB, Chunking)",Low (Simple preloading)
+Freshness,Live updates possible,Need to re-cache for updates
+Accuracy,Depends on Search quality,Very High (Sees full data)
