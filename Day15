@@ -1,0 +1,12 @@
+today explain linear regresions
+
+Dependent Variable (DV): The outcome you want to predict (e.g., exam score).
+Independent Variable(s) (IV): The predictors or inputs (e.g., hours studied).
+Equation Form:
+y = 𝛽0 + 𝛽1x + 𝜖
+𝑦: predicted value
+𝛽0: intercept
+𝛽1: slope (effect of 𝑥 on 𝑦)
+𝜖: error term
+Simple Linear Regression: One independent variable.
+Multiple Linear Regression: Two or more independent variables.
